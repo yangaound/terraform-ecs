@@ -1,0 +1,7 @@
+### PyCharm IDEA ###
+.idea
+*.iws
+*.iml
+
+### Terraform ###
+.terraform*
